@@ -1,5 +1,12 @@
-<h2 align="left">Hi 👋! My name is Jefrien <br><br>I'm a Full Stack Web Developer, from Guatemala</h2>
+<h2 align="center">Hi 👋! My name is Jefrien<br /><br />I'm a Full Stack Web Developer, from Guatemala<br /><br /></h2>
 
+
+###
+<pre>
+Astro      14 mins        ██████████▍░░░░░░░░░░  49.9%
+YAML       11 mins        ███████▉░░░░░░░░░░░░░  37.5%
+JavaScript 2 mins         █▌░░░░░░░░░░░░░░░░░░░   7.5%
+Bash       1 min          █░░░░░░░░░░░░░░░░░░░░   5.1%</pre>
 ###
 
 <div align="center">
